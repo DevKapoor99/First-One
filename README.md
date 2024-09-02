@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a Power BI dashboard designed to analyze and visualize sales data for the [Techno Sales] department. The dashboard provides insights into key metrics, trends, and performance indicators, helping stakeholders make data-driven decisions.
+This project is a Power BI dashboard designed to analyze and visualize sales data for the Techno Sales department. The dashboard provides insights into key metrics, trends, and performance indicators, helping stakeholders make data-driven decisions.
 
 ## Problem Statement
 
