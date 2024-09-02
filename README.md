@@ -33,5 +33,3 @@ The main objectives of this project include:
 - **Power BI:** Used for creating the dashboard and visualizations.
 
 
-
-# First-One
